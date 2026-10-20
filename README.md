@@ -14,15 +14,6 @@
 7. [EEG 使用注意事項](eeg-management/notes.md)
 8. [其他（管理團隊與操作手冊）](eeg-management/other.md)
 
-## 建置中
-
-- MEG 操作教學
-- 32ch EEG 操作教學
-- 64ch EEG 操作教學
-- Eye-tracker 操作教學
-- 資料分析流程
-
----
 
 <details>
 <summary>給維護者：如何新增內容</summary>
