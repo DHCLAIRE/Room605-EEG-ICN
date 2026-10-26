@@ -1,10 +1,10 @@
-# 腦與語言實驗室 — 儀器教學與管理<br>Brain & Language Lab — Equipment Tutorials & Management
+# Room 605 實驗室 — 32頻道EEG儀器教學與管理<br>Room 605 — 32 channels EEG Equipment Tutorials & Management
 
-本頁收錄實驗室各項儀器的操作教學與管理規範，目前涵蓋 **R605 EEG（NCU-ICN Grael 4K EEG system）**。
-This site documents the lab's equipment tutorials and management rules. It currently covers **R605 EEG (NCU-ICN Grael 4K EEG system)**.
+本頁涵蓋實驗室 **R605 EEG（NCU-ICN Grael 4K EEG system）**的儀器操作教學與管理規範。
+This site documents the equipment tutorials and management rules of **R605 EEG (NCU-ICN Grael 4K EEG system)**.
 
 > **重要 / Important**
-> 實驗在 **R605** 進行，EEG 設備存放於 **R611-1**（大腦與語言實驗室）；預約時需分別預約「R605 空間」與「EEG 設備」。
+> 實驗在 **R605** 進行，EEG 設備存放於 **R611-1**（大腦與語言實驗室）；預約時需分別預約「R605 空間」與通知「R605 EEG 設備」之管理團隊。
 > Experiments take place in **R605**, but the EEG equipment is stored in **R611-1** (Brain & Language Lab). You must reserve the **R605 space** and the **EEG equipment** separately.
 
 ## Room 605 EEG 管理 / Management
@@ -19,14 +19,6 @@ This site documents the lab's equipment tutorials and management rules. It curre
 | 6 | [Room 605 EEG 獨立執行認證](eeg-management/certification.md) | [Certification](eeg-management/certification.md) |
 | 7 | [EEG 使用注意事項](eeg-management/notes.md) | [Usage Notes](eeg-management/notes.md) |
 | 8 | [其他（管理團隊與操作手冊）](eeg-management/other.md) | [Other (Team & Manual)](eeg-management/other.md) |
-
-## 建置中 / Coming soon
-
-- MEG 操作教學 / MEG tutorial
-- 32ch EEG 操作教學 / 32ch EEG tutorial
-- 64ch EEG 操作教學 / 64ch EEG tutorial
-- Eye-tracker 操作教學 / Eye-tracker tutorial
-- 資料分析流程 / Data analysis pipeline
 
 ---
 
