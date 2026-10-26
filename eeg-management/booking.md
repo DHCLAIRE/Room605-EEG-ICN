@@ -2,8 +2,8 @@
 
 # Room 605 時段預約<br>R605 & EEG Equipment Reservation
 
-使用 EEG 需分別預約 **R605 實驗空間** 與 **EEG 設備**（兩者使用不同行事曆）。所有使用者皆須先完成[獨立執行認證（驗收）](certification.md)。
-Using the EEG requires two separate reservations — the **R605 space** and the **EEG equipment** (different calendars). All users must first complete the [certification / approval](certification.md).
+使用 EEG 需預約 **R605 實驗空間**。所有使用者皆須先完成[EEG使用考核](certification.md)。
+Using the EEG requires — the **R605 space** reservations. All users must first complete the [EEG Assessment](certification.md).
 
 ## 1. R605 空間預約 / R605 Space Reservation
 
