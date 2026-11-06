@@ -19,7 +19,7 @@ This section covers the usage rules and procedures for the **Room 605 EEG (NCU-I
     - **[R605 EEG 考核說明 / Assessment Guide](R605-EEG-assessment-guide.md)**
         1. [考核事項 / Assessment Items](R605-EEG-assessment-guide.md#1-考核事項--assessment-items)
         2. [考核表-中文](R605-EEG-Assessment/R605_腦電波實驗程序考核表_CHT.pdf)
-        3. [Assessment Form] (R605-EEG-Assessment/R605_EEG-procedure-checklist_Eng.pdf)
+        3. [Assessment Form](R605-EEG-Assessment/R605_EEG-procedure-checklist_Eng.pdf)
         4. [EEG 注意事項 / EEG Notes](R605-EEG-assessment-guide.md#3-eeg-注意事項--eeg-notes)
 - **[其他（管理團隊與連結）/ Other (Team & Links)](other.md)**
 
