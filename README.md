@@ -22,14 +22,6 @@ This site documents the lab's equipment tutorials and management rules. It curre
         3. [EEG 注意事項 / EEG Notes](eeg-management/R605-EEG-assessment-guide.md#3-eeg-注意事項--eeg-notes)
 - **[其他（管理團隊與連結）/ Other (Team & Links)](eeg-management/other.md)**
 
-## 建置中 / Coming soon
-
-- MEG 操作教學 / MEG tutorial
-- 32ch EEG 操作教學 / 32ch EEG tutorial
-- 64ch EEG 操作教學 / 64ch EEG tutorial
-- Eye-tracker 操作教學 / Eye-tracker tutorial
-- 資料分析流程 / Data analysis pipeline
-
 ---
 
 <details>
