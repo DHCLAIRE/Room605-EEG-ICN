@@ -16,8 +16,8 @@ This document consolidates reservation, borrowing, user logging, and user respon
 
 ## 1. 時段預約 / Reservation
 
-使用 EEG 需預約 **R605 實驗空間**。所有使用者皆須先完成[EEG使用考核](certification.md)。
-Using the EEG requires the **R605 space** reservation. All users must first complete the [EEG Assessment](certification.md).
+使用 EEG 需預約 **R605 實驗空間**。所有使用者皆須先完成[EEG使用考核](R605-EEG-assessment-guide.md#1-考核事項--assessment-items)。
+Using the EEG requires the **R605 space** reservation. All users must first complete the [EEG Assessment](R605-EEG-assessment-guide.md#1-考核事項--assessment-items).
 
 ### R605 空間預約 / R605 Space Reservation
 
@@ -62,7 +62,7 @@ Using the EEG requires the **R605 space** reservation. All users must first comp
 
 | # | 中文 | English |
 |---|------|---------|
-| 1 | 確認已完成[EEG考核](certification.md)。 | Confirm you have completed the [R605 EEG Procedure Assessment](certification.md). |
+| 1 | 確認已完成[EEG考核](R605-EEG-assessment-guide.md#1-考核事項--assessment-items)。 | Confirm you have completed the [R605 EEG Procedure Assessment](R605-EEG-assessment-guide.md#1-考核事項--assessment-items). |
 | 2 | 於「R605 腦波儀 Calendar」預約設備，並於「R605 實驗室行事曆」預約空間（見[時段預約](#1-時段預約--reservation)）。 | Reserve the equipment on the "R605 EEG Calendar" and the space on the "R605 Lab calendar" (see [Reservation](#1-時段預約--reservation)). |
 
 ### 領取設備 / Collecting the Equipment
@@ -72,7 +72,7 @@ Using the EEG requires the **R605 space** reservation. All users must first comp
 | 3 | 至**鑰匙箱**領取 **R611-1** 的鑰匙。鑰匙箱密碼**每兩週更新一次**，透過 email 寄發給目前使用者。 | Obtain the **R611-1** key from the **key box**. The key-box password is **updated every two weeks** and emailed to current users. |
 | 4 | 領取與搬運前，先確認 **R611-1 共用行事曆**，避免干擾他人實驗。 | Before collecting/moving, check the **R611-1 shared calendar** to avoid disturbing others. |
 | 5 | 線上預約後，洽**管理團隊**取得 611-1 實驗室之鑰匙（於 611-1 實驗室內取得放大器、金鑰、EEG 儀器）。 | After the online reservation, contact the **management team** for the R611-1 lab key, then collect the amplifier, software lock, and EEG equipment inside R611-1. |
-| 6 | 使用前檢查設備狀態（詳見[使用注意事項](notes.md)）。 | Check equipment condition before use (see [Usage Notes](notes.md)). |
+| 6 | 使用前檢查設備狀態（詳見[使用注意事項](R605-EEG-assessment-guide.md#3-eeg-注意事項--eeg-notes)）。 | Check equipment condition before use (see [Usage Notes](R605-EEG-assessment-guide.md#3-eeg-注意事項--eeg-notes)). |
 
 ### 歸還設備 / Returning the Equipment
 

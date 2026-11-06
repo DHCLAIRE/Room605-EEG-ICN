@@ -1,6 +1,6 @@
 [← 回 EEG 管理目錄 / Back to EEG index](README.md)
 
-# 其他<br>Other (Management Team & Manual)
+# 其他<br>Other (Management Team & Links)
 
 ## 管理團隊 / Management Team
 
@@ -11,25 +11,6 @@
 
 管理人員協助：(1) 儀器保養與維護；(2) 配件與軟體之保管與借用；(3) 實驗室管理與違規舉發。
 The managers assist with: (1) maintenance/upkeep, (2) safekeeping and lending of accessories/software, (3) lab management and reporting misuse.
-
-## EEG 操作手冊 / Operation Manual
-
-**組裝 / Assembly**
-
-底座與訊號線連接 → 轉接頭接 Headbox → Headbox 接底座（燈亮即成功）→ 連接電極帽與 bipolar channels（EOG）→ 插入軟體鎖。
-Connect base & signal cables → adapter to Headbox → Headbox to base (light turns on when correct) → connect electrode cap and bipolar channels (EOG) → insert the dongle.
-
-**記錄軟體 Curry / Recording software**
-
-開啟 Curry → 建立新的（或載入舊的）study → 透過網路連結放大器（可能需數次）→ 選擇組態檔 → 設定記錄參數（取樣率、濾波）→ 設定記錄檔名 → 開始量測 → 開始記錄。
-Launch Curry → create new (or load old) study → connect to the amplifier via network (may take a few attempts) → select the configuration file → set recording parameters (sampling rate, filters) → name the session → begin acquisition → start recording.
-
-> 完整圖解請參考 **R605 EEG Device Instructions** 與 **20250502 R605 EEG Workshop** 投影片。
-> For full illustrated steps, see the **R605 EEG Device Instructions** and **20250502 R605 EEG Workshop** slides.
-
-- 操作手冊 / 投影片 / Manual & slides：（填寫連結 / add link）
-
-<!-- 可將投影片轉為 PDF 上傳至 repo，或連結 Google Drive，再於此處放連結。 -->
 
 ## 常見問答 / Q&A
 
@@ -45,5 +26,6 @@ Launch Curry → create new (or load old) study → connect to the amplifier via
 ## 相關連結 / Links
 
 - 📋 [EEG 使用狀況回報表 / Status Report Form](https://forms.gle/n683xq5ALLhKk6ms5)
-- 📝 R605 EEG 驗收時段登記表 / Certification form：（請填入連結 / add link）
-- 📅 行事曆連結見[時段預約](booking.md) / Calendars: see [Reservation](booking.md)
+- 📝 考核時段登記表 / Assessment registration：見[考核說明 → 考核事項](R605-EEG-assessment-guide.md#1-考核事項--assessment-items)
+- 📅 行事曆連結 / Calendars：見[借用規則 → 時段預約](R605-EEG-usage-rules.md#1-時段預約--reservation)
+- 🛠️ 操作手冊 / Operation manual：見[實驗器材簡介與實驗教學](intro.md#操作手冊--operation-manual)

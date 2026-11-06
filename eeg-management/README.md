@@ -20,7 +20,9 @@ This section covers the usage rules and procedures for the **Room 605 EEG (NCU-I
         1. [考核事項 / Assessment Items](R605-EEG-assessment-guide.md#1-考核事項--assessment-items)（原本的 Room 605 EEG 獨立執行認證）
         2. [考核表 / Assessment Form](R605-EEG-assessment-guide.md#2-考核表--assessment-form)（之後會上傳 PDF 檔）
         3. [EEG 注意事項 / EEG Notes](R605-EEG-assessment-guide.md#3-eeg-注意事項--eeg-notes)
-- **[其他（管理團隊與操作手冊）/ Other (Team & Manual)](other.md)**
+- **[其他（管理團隊與連結）/ Other (Team & Links)](other.md)**
+
+<!-- 註: 「R605 EEG 管理規則」目前為分類標題；日後可改為獨立資料夾（例如 management-rules/），再將兩份合併檔移入並更新連結。 -->
 
 ---
 
