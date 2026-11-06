@@ -1,4 +1,4 @@
-# 腦與語言實驗室 — 儀器教學與管理<br>Brain & Language Lab — Equipment Tutorials & Management
+# R605 EEG 儀器教學與管理<br>R605 EEG Equipment Tutorials & Management
 
 本頁收錄實驗室各項儀器的操作教學與管理規範，目前涵蓋 **R605 EEG（NCU-ICN Grael 4K EEG system）**。
 This site documents the lab's equipment tutorials and management rules. It currently covers **R605 EEG (NCU-ICN Grael 4K EEG system)**.
