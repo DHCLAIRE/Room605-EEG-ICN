@@ -1,34 +1,27 @@
-# Room 605 實驗室 — 32頻道EEG儀器教學與管理<br>Room 605 — 32 channels EEG Equipment Tutorials & Management
+# Room 605 EEG 儀器管理<br>Room 605 EEG Equipment Management
 
-本頁涵蓋實驗室 **R605 EEG（NCU-ICN Grael 4K EEG system）**的儀器操作教學與管理規範。
-This site documents the equipment tutorials and management rules of **R605 EEG (NCU-ICN Grael 4K EEG system)**.
+本區說明 **Room 605 EEG（NCU-ICN Grael 4K EEG system）** 設備的使用規範與各項流程。
+This section covers the usage rules and procedures for the **Room 605 EEG (NCU-ICN Grael 4K EEG system)**.
 
-> **重要 / Important**
-> 實驗在 **R605** 進行，EEG 設備存放於 **R611-1**（大腦與語言實驗室）；預約時需分別預約「R605 空間」與通知「R605 EEG 設備」之管理團隊。
-> Experiments take place in **R605**, but the EEG equipment is stored in **R611-1** (Brain & Language Lab). You must reserve the **R605 space** and the **EEG equipment** separately.
+> **提醒 / Note**
+> 無論是否已有 EEG 經驗，所有使用者皆須先通過[R605 EEG 考核說明](R605-EEG-assessment-guide.md)才能借用設備。實驗在 **R605**，設備存放於 **R611-1**。
+> Regardless of prior experience, all users must pass the [R605 EEG Assessment](R605-EEG-assessment-guide.md) before borrowing. Experiments are in **R605**; equipment is stored in **R611-1**.
 
-## Room 605 EEG 管理 / Management
+## 目錄 / Contents
 
-| # | 項目（中文） | Section (English) |
-|---|------|---------|
-| 1 | [實驗器材簡介](eeg-management/intro.md) | [Equipment Overview](eeg-management/intro.md) |
-| 2 | [Room 605 時段預約](eeg-management/booking.md) | [Reservation](eeg-management/booking.md) |
-| 3 | [EEG 儀器借用流程](eeg-management/borrow.md) | [Borrowing Procedure](eeg-management/borrow.md) |
-| 4 | [儀器損害回報流程](eeg-management/damage.md) | [Damage / Status Report](eeg-management/damage.md) |
-| 5 | [使用者責任](eeg-management/responsibility.md) | [User Responsibilities](eeg-management/responsibility.md) |
-| 6 | [Room 605 EEG 獨立執行認證](eeg-management/certification.md) | [Certification](eeg-management/certification.md) |
-| 7 | [EEG 使用注意事項](eeg-management/notes.md) | [Usage Notes](eeg-management/notes.md) |
-| 8 | [其他（管理團隊與操作手冊）](eeg-management/other.md) | [Other (Team & Manual)](eeg-management/other.md) |
+- **[實驗器材簡介與實驗教學 / Equipment Overview & Tutorials](intro.md)**
+- **R605 EEG 管理規則 / Management Rules**
+    - **[R605 EEG 儀器借用規則 / Equipment Usage Rules](R605-EEG-usage-rules.md)**
+        1. [時段預約 / Reservation](R605-EEG-usage-rules.md#1-時段預約--reservation)
+        2. [借用流程 / Borrowing Procedure](R605-EEG-usage-rules.md#2-借用流程--borrowing-procedure)
+        3. [使用者紀錄 / User Log](R605-EEG-usage-rules.md#3-使用者紀錄--user-log)（原本的儀器損害回報流程）
+        4. [使用者責任 / User Responsibilities](R605-EEG-usage-rules.md#4-使用者責任--user-responsibilities)
+    - **[R605 EEG 考核說明 / Assessment Guide](R605-EEG-assessment-guide.md)**
+        1. [考核事項 / Assessment Items](R605-EEG-assessment-guide.md#1-考核事項--assessment-items)（原本的 Room 605 EEG 獨立執行認證）
+        2. [考核表 / Assessment Form](R605-EEG-assessment-guide.md#2-考核表--assessment-form)（之後會上傳 PDF 檔）
+        3. [EEG 注意事項 / EEG Notes](R605-EEG-assessment-guide.md#3-eeg-注意事項--eeg-notes)
+- **[其他（管理團隊與操作手冊）/ Other (Team & Manual)](other.md)**
 
 ---
 
-<details>
-<summary>給維護者 / For maintainers</summary>
-
-- 每一頁為一個 `.md` 檔，用 Markdown 撰寫，推送後即更新。Each page is one `.md` file; push to update.
-- 雙語採「中文 / English」並列（標題用 `<br>` 換行，清單用兩欄表格）。Bilingual layout: headings separated by `<br>`, lists as two-column tables.
-- 頁間用相對連結，例如 `[借用流程](eeg-management/borrow.md)`。Use relative links between pages.
-- GitHub 會移除 `<iframe>`／`<script>`，日曆只能放連結。GitHub strips iframes/scripts — calendars must be links.
-- `<!-- 註 -->` 為維護備註，於 GitHub 頁面不顯示。`<!-- 註 -->` comments are hidden on GitHub.
-
-</details>
+[← 回首頁 / Home](../README.md)

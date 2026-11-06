@@ -4,21 +4,23 @@
 This section covers the usage rules and procedures for the **Room 605 EEG (NCU-ICN Grael 4K EEG system)**.
 
 > **提醒 / Note**
-> 無論是否已有 EEG 經驗，所有使用者皆須先完成[獨立執行認證（驗收）](certification.md)才能借用設備。實驗在 **R605**，設備存放於 **R611-1**。
-> Regardless of prior experience, all users must complete the [certification / approval](certification.md) before borrowing. Experiments are in **R605**; equipment is stored in **R611-1**.
+> 無論是否已有 EEG 經驗，所有使用者皆須先通過[R605 EEG 考核說明](R605-EEG-assessment-guide.md)才能借用設備。實驗在 **R605**，設備存放於 **R611-1**。
+> Regardless of prior experience, all users must pass the [R605 EEG Assessment](R605-EEG-assessment-guide.md) before borrowing. Experiments are in **R605**; equipment is stored in **R611-1**.
 
-## 項目 / Sections
+## 目錄 / Contents
 
-| # | 項目（中文） | Section (English) |
-|---|------|---------|
-| 1 | [實驗器材簡介](intro.md) | [Equipment Overview](intro.md) |
-| 2 | [Room 605 時段預約](booking.md) | [Reservation](booking.md) |
-| 3 | [EEG 儀器借用流程](borrow.md) | [Borrowing Procedure](borrow.md) |
-| 4 | [儀器損害回報流程](damage.md) | [Damage / Status Report](damage.md) |
-| 5 | [使用者責任](responsibility.md) | [User Responsibilities](responsibility.md) |
-| 6 | [Room 605 EEG 獨立執行認證](certification.md) | [Certification](certification.md) |
-| 7 | [EEG 使用注意事項](notes.md) | [Usage Notes](notes.md) |
-| 8 | [其他（管理團隊與操作手冊）](other.md) | [Other (Team & Manual)](other.md) |
+- **[實驗器材簡介與實驗教學 / Equipment Overview & Tutorials](intro.md)**
+- **R605 EEG 管理規則 / Management Rules**
+    - **[R605 EEG 儀器借用規則 / Equipment Usage Rules](R605-EEG-usage-rules.md)**
+        1. [時段預約 / Reservation](R605-EEG-usage-rules.md#1-時段預約--reservation)
+        2. [借用流程 / Borrowing Procedure](R605-EEG-usage-rules.md#2-借用流程--borrowing-procedure)
+        3. [使用者紀錄 / User Log](R605-EEG-usage-rules.md#3-使用者紀錄--user-log)（原本的儀器損害回報流程）
+        4. [使用者責任 / User Responsibilities](R605-EEG-usage-rules.md#4-使用者責任--user-responsibilities)
+    - **[R605 EEG 考核說明 / Assessment Guide](R605-EEG-assessment-guide.md)**
+        1. [考核事項 / Assessment Items](R605-EEG-assessment-guide.md#1-考核事項--assessment-items)（原本的 Room 605 EEG 獨立執行認證）
+        2. [考核表 / Assessment Form](R605-EEG-assessment-guide.md#2-考核表--assessment-form)（之後會上傳 PDF 檔）
+        3. [EEG 注意事項 / EEG Notes](R605-EEG-assessment-guide.md#3-eeg-注意事項--eeg-notes)
+- **[其他（管理團隊與操作手冊）/ Other (Team & Manual)](other.md)**
 
 ---
 
