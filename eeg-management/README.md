@@ -10,15 +10,15 @@ This section covers the usage rules and procedures for the **Room 605 EEG (NCU-I
 ## 目錄 / Contents
 
 - **[實驗器材簡介與實驗教學 / Equipment Overview & Tutorials](intro.md)**
-- **R605 EEG 管理規則 / Management Rules**
+- **[R605 EEG 管理規則 / Management Rules]**
     - **[R605 EEG 儀器借用規則 / Equipment Usage Rules](R605-EEG-usage-rules.md)**
         1. [時段預約 / Reservation](R605-EEG-usage-rules.md#1-時段預約--reservation)
         2. [借用流程 / Borrowing Procedure](R605-EEG-usage-rules.md#2-借用流程--borrowing-procedure)
-        3. [使用者紀錄 / User Log](R605-EEG-usage-rules.md#3-使用者紀錄--user-log)（原本的儀器損害回報流程）
+        3. [使用者紀錄 / User Log](R605-EEG-usage-rules.md#3-使用者紀錄--user-log)
         4. [使用者責任 / User Responsibilities](R605-EEG-usage-rules.md#4-使用者責任--user-responsibilities)
     - **[R605 EEG 考核說明 / Assessment Guide](R605-EEG-assessment-guide.md)**
-        1. [考核事項 / Assessment Items](R605-EEG-assessment-guide.md#1-考核事項--assessment-items)（原本的 Room 605 EEG 獨立執行認證）
-        2. [考核表 / Assessment Form](R605-EEG-assessment-guide.md#2-考核表--assessment-form)（之後會上傳 PDF 檔）
+        1. [考核事項 / Assessment Items](R605-EEG-assessment-guide.md#1-考核事項--assessment-items)
+        2. [考核表 / Assessment Form](R605 EEG Assessment/R605_腦電波實驗程序考核表_CHT.pdf)
         3. [EEG 注意事項 / EEG Notes](R605-EEG-assessment-guide.md#3-eeg-注意事項--eeg-notes)
 - **[其他（管理團隊與連結）/ Other (Team & Links)](other.md)**
 
